@@ -8,7 +8,7 @@ package algonquin.oopfinal;
  *
  * @author darre
  */
-public class Oopfinal {
+public class Controller {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
